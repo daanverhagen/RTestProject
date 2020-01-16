@@ -13,3 +13,9 @@ divide <- function(x) {
   print(x / y)
 }
 divide(x=2)
+
+
+addition <- function(x){
+  print(x + y)
+}
+addition(x=3)
