@@ -7,3 +7,9 @@ multiply <- function(x) {
   print(x * y)
 }
 multiply(x=2)
+
+
+divide <- function(x) {
+  print(x / y)
+}
+divide(x=2)
